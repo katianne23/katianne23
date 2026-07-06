@@ -36,7 +36,7 @@
 <a href="https://t.me/Katiannearaujo" target="_blank">
   <img src="https://img.icons8.com/ios-filled/50/2CA5E0/telegram.png" alt="Telegram"  height="40" width="40">
 </a>
-<a href="https://discord.gg/jSpXMenR" target="_blank">
+<a href="https://discord.gg/mjMKjnt" target="_blank">
   <img src="https://img.icons8.com/ios-filled/50/7289DA/discord.png" alt="Discord"  height="40" width="40">
 </a>
 <a href="mailto:katianne40@gmail.com">
